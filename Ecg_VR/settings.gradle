@@ -1,0 +1,2 @@
+rootProject.name = "Ecg_VR"
+include ':app'

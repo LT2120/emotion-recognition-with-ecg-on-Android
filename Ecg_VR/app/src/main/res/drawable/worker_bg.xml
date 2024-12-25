@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:color="#C6C6C6"/>//点击后的颜色
+    <item android:color="#fffeee"/>//这是默认的颜色  没有点击的时候
+</selector>
