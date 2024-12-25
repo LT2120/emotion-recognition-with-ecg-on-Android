@@ -7,6 +7,7 @@
 Android studio平台中完成app，pytorch完成神经网络模型训练。
 
 app预览：
+
 ![image](preview/login.gif#pic_center#width-full)
 ![image](preview/main.gif#pic_center#width-full)
 ![image](preview/menu.gif#pic_center#width-full)
