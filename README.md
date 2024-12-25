@@ -4,8 +4,9 @@
 
 该系统部署于安卓app中，使用深度学习的神经网络模型CNN，对从蓝牙设备收集到的心电信号进行情绪识别。
 
-该项目在Android studio平台中完成，神经网络模型训练用pytorch完成。
+Android studio平台中完成app，pytorch完成神经网络模型训练。
 
+app预览：
 ![image](preview/login.gif#pic_center#width-full)
 ![image](preview/main.gif#pic_center#width-full)
 ![image](preview/menu.gif#pic_center#width-full)
