@@ -8,7 +8,7 @@ Android studio平台中完成app，pytorch完成神经网络模型训练。
 
 app预览：
 ![示例1](https://github.com/LT2120/emotion-recognition-with-ecg-on-Android/blob/main/preview/blue.gif)
-![示例1](https://github.com/LT2120/emotion-recognition-with-ecg-on-Android/blob/main/preview/blue.gif#pic_center#width-full)
+![示例1](https://github.com/LT2120/emotion-recognition-with-ecg-on-Android/blob/main/preview/blue.gif#pic_center#width-full "123")
 ![image](preview/login.gif#pic_center#width-full)
 ![image](preview/main.gif#pic_center#width-full)
 ![image](preview/menu.gif#pic_center#width-full)
